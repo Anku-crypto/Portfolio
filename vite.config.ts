@@ -1,3 +1,7 @@
+
+import { someComponent } from '@gsap/react';
+import gsap from 'gsap';
+
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
